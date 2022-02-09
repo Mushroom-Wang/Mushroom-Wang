@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Quan Wang
-- 👀 I’m interested in Computational Economics and Game Theory
-- 🌱 I’m currently learning Python and Machine Learning
-- 💞️ I’m looking to collaborate on any research project to help me practice these skills
-- 📫 How to reach me: quanwang452@gmail.com
+- 👋 Hi, I’m Quan Wang!
+- 👀 I’m interested in Data Science and Machine Learning.
+- 🌱 I’m currently learning Database Systems, Time Series Econometrics, and Computational Microeconomics.
+- 💞️ I’m looking for 2022 summer data science/analytics intern to practice these skills.
+- 📫 How to reach me: quan.wang@duke.edu
 
 <!---
 Mushroom-Wang/Mushroom-Wang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
