@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Quan Wang!
-- 👀 I’m interested in Data Science and Machine Learning.
-- 🌱 I’m currently learning Database Systems, Time Series Econometrics, and Computational Microeconomics.
-- 💞️ I’m looking for 2022 summer data science/analytics intern to practice these skills.
+- 👀 I’m interested in Software Engineer and Full Stack Development.
+- 🌱 I’m currently learning JavaScript and Web Development.
+- 💞️ I’m looking for 2023 New Grad full-time SDE position.
 - 📫 How to reach me: quan.wang@duke.edu
 
 <!---
