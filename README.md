@@ -21,15 +21,15 @@
 </p>
 -->
 
-### Hi there, I'm Quan Wang 👋 
+### Hi there, I'm Vivian Wang 👋 
 
 Aspiring software engineer interested in full stack web development and machine learning.
 
-I'm a master’s student studying Computer Science and Economics at Duke. I'm actively seeking a full-time Software Engineer role after graduating in May 2023. 
+I'm a master’s student studying Computer Science and Economics at Duke.
 
 I worked at [Synspot](https://www.synspot-ai.com/), where I conducted software tests, improved the open source package, and built the company’s official website.
 
-Feel free to reach out to me at quan.wang@duke.edu
+Feel free to reach out to me at quanwang452@gmail.com
 
 ### Stats
 
