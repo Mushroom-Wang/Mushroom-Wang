@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://navendu.me"><img src="https://github.com/navendu-pottekkat/navendu-pottekkat/blob/master/banner.png" alt="banner" href=""></a>
   <a href="https://www.linkedin.com/in/quan-wang/"><img src="https://img.shields.io/badge/LinkedIn-quanwang-blue?style=flat-square&logo=linkedin" alt="LinkedIn" href="https://www.linkedin.com/in/navendup/"></a>
-  <a href="https://quanwang.website/"><img src="https://img.shields.io/badge/Website-quanwang.website-red?style=flat-square" alt="Website" href="https://quanwang.website/"></a>
   </br>
 </p>
 
@@ -23,11 +21,7 @@
 
 ### Hi there, I'm Vivian Wang 👋 
 
-Aspiring software engineer interested in full stack web development and machine learning.
-
-I'm a master’s student studying Computer Science and Economics at Duke.
-
-I worked at [Synspot](https://www.synspot-ai.com/), where I conducted software tests, improved the open source package, and built the company’s official website.
+Software engineer proficient in full-stack web development and machine learning.
 
 Feel free to reach out to me at quanwang452@gmail.com
 
