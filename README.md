@@ -20,14 +20,6 @@
 -->
 
 ### Hi there, I'm Vivian Wang 👋 
-
-Software engineer proficient in full-stack web development and machine learning.
-
-Feel free to reach out to me at quanwang452@gmail.com
-
-### Stats
-
-[![Navendu's github stats](https://github-readme-stats.vercel.app/api?username=Mushroom-Wang&theme=dark)](https://github.com/navendu-pottekkat)
 <!---
 Mushroom-Wang/Mushroom-Wang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
